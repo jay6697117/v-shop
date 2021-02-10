@@ -1,3 +1,4 @@
+/* eslint-disable no-redeclare */
 /**
  *  表单验证
  *  //定义表单规则
